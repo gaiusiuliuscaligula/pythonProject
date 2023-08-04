@@ -1,29 +1,25 @@
-## Репозиторий с решениями задач на Python
-Добро пожаловать в мой репозиторий с решениями задач на языке Python! Здесь вы найдете различные задачи и их решения, которые я разработал и реализовал в процессе изучения и применения языка программирования Python.
+## Repository with Python problem solutions
+Welcome to my repository with Python problem solutions! Here you will find various problems and their solutions that I have developed and implemented while learning and applying the Python programming language.
 
-### Репозиторий организован следующим образом:
-Seminar_1: Ввод-Вывод, операторы ветвления
-Seminar_2: Циклы, встроенные типы и операции с ними.
-Seminar_3: Списки и словари, Функции.
-Seminar_4: Словари, множества и профилирование
-Seminar_5: Рекурсия и алгоритмы, Работа с файлами
-Seminar_6: Повторение списков, Объектно-ориентированное программирование
-Seminar_7: Функции высшего порядка, ООП. Продвинутый уровень
-Seminar_8: Работа с файлами, ООП. Полезные дополнения
-Seminar_9: Работа с табличными данными
-Seminar_10: Построение графиков
+### The repository is organized as follows:
+Seminar_1: Input-Output, Conditional Statements 
+Seminar_2: Loops, Built-in Types and Operations with Them. 
+Seminar_3: Lists and Dictionaries, Functions. 
+Seminar_4: Dictionaries, Sets, and Profiling. 
+Seminar_5: Recursion and Algorithms, Working with Files. 
+Seminar_6: Lists Review, Object-Oriented Programming. 
+Seminar_7: Higher-Order Functions, Advanced OOP. 
+Seminar_8: Working with Files, Advanced OOP Additions. 
+Seminar_9: Working with Tabular Data. 
+Seminar_10: Plotting.
 
-### Как использовать
-Клонируйте репозиторий на ваше локальное устройство:
-git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
-Откройте файлы с задачами и изучите их реализацию и описание внутри кода.
-Запустите файлы с задачами в среде разработки Python или в терминале, чтобы увидеть результаты выполнения.
-Изучайте код, экспериментируйте и вносите свои изменения для лучшего понимания и освоения языка Python.
+### How to Use:
+Clone the repository to your local device: git clone https://github.com/your_user/your_repository.git Open the files with problems and study their implementation and descriptions inside the code. Run the files with problems in a Python development environment or in the terminal to see the execution results. Study the code, experiment, and make your changes for better understanding and mastering Python.
 
-### Вклад
-Вы можете внести свой вклад в этот репозиторий, предлагая улучшения, исправляя ошибки или добавляя новые задачи и их решения. Просто создайте запрос на внесение изменений (Pull Request), и я рассмотрю ваш вклад.
+### Contributing:
+You can contribute to this repository by suggesting improvements, fixing bugs, or adding new problems and their solutions. Simply create a Pull Request, and I will review your contribution.
 
-### Связь
-Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной через электронную почту или создать проблему (issue) в этом репозитории.
+### Contact:
+If you have any questions or suggestions, feel free to contact me via email or create an issue in this repository.
 
-Спасибо за внимание! Надеюсь, эти задачи и решения помогут вам в изучении и практике программирования на Python.
+Thank you for your attention! I hope these problems and solutions will help you in learning and practicing Python programming.
